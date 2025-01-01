@@ -18,7 +18,15 @@ void Vectors(){
 
     vector<int> v1(5,20);
     vector<int> v2(v1);
-    
+    vector<int>::iterator it = v.begin;
+
+    it++;
+    cout<< *(it) << " ";
+
+
+    for(auto it = v.begin; it!= v.end();it++ ){
+        cout<<*(it)<<" ";
+    }
 }
 
 int main(){
