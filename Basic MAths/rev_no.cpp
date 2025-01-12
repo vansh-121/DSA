@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int RevNo(int n){
+int RevNo(int n){c
     cin>>n;
     int lastdigit ;
     int rev=0;
