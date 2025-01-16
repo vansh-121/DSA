@@ -2,6 +2,8 @@
 #include<vector>
 using namespace std;
 
+int hashh[10000000000000000];
+
 int main(){
     int n;
     cin>> n;
@@ -11,9 +13,8 @@ int main(){
     }
 
     //precompute
-    int hash[13] = {0};
     for(int i=0;i<n;i++){
-        hash[arr[i]] +=1;
+        hashh[arr[i]] +=1;
     }
 
 
@@ -25,6 +26,6 @@ int main(){
         cin>>no;
 
         //fetch
-        cout<<hash[no]<<endl;
+        cout<<hashh[no]<<endl;
     }
 }
