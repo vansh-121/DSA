@@ -8,6 +8,7 @@
         "vector": "cpp",
         "xstring": "cpp",
         "xutility": "cpp",
-        "xtree": "cpp"
+        "xtree": "cpp",
+        "character_hashing_using_maps": "cpp"
     }
 }

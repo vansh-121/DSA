@@ -2,7 +2,7 @@
 
 using namespace std;
 
-//if condition of upper case/lower case then :-
+//if condition of lower case then :-
 
 int main(){
     string s;
