@@ -9,6 +9,7 @@
         "xstring": "cpp",
         "xutility": "cpp",
         "xtree": "cpp",
-        "character_hashing_using_maps": "cpp"
+        "character_hashing_using_maps": "cpp",
+        "algorithm": "cpp"
     }
 }
