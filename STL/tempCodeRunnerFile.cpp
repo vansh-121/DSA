@@ -1,20 +1,16 @@
-#include<iostream>
-#include<vector>
-#include<algorithm>
+#include <iostream>
 
 using namespace std;
 
-void q1(){
-    int a,n,X;
-    int arr[9] = {1,4,4,4,4,9,9,10,11};
-    int ind = lower_bound(a,a+n,X)-a;
-    if(ind!=n && a[ind]==X){
-        cout<<ind;
-    }
-    else cout<<-1;
 
+void print(){
+    // int a=1;
+    // int b=2;
+    cout<<"raj";
 }
 
-int main(){
-    q1();
+int main()
+{
+    void print();
+    return 0;
 }
