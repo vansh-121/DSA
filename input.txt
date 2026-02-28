@@ -1,7 +1,8 @@
-abcdeadhed
+9
+abcabcabc
 5
 a
 b
+b
 c
 d
-e
