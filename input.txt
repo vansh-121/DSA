@@ -1,8 +1,2 @@
-9
-abcabcabc
-5
-a
-b
-b
-c
-d
+3
+10 20 15
