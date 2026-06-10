@@ -7,7 +7,7 @@ public:
         if(n==0){
             return 0;
         }
-        unordered_set<int> st; 
+        set<int> st; 
         for(int i=0; i<n; i++){
             st.insert(nums[i]);
         }
