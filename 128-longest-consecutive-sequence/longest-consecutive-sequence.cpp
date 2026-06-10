@@ -7,7 +7,9 @@ public:
         int count = 0;
 
         sort(nums.begin(), nums.end());
-
+        if(n==0){
+            return 0;
+        }
         for(int i=0; i<n;i++){
             if(nums[i] - 1 == lastsmaller){
                 count++;
