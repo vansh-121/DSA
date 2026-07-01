@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/vansh-121/DSA/tree/main/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/vansh-121/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/vansh-121/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/vansh-121/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vansh-121/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -51,5 +52,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vansh-121/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/vansh-121/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/vansh-121/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
