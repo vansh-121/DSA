@@ -1,18 +1,18 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        int cnt = 0;
-        int n =  nums.size();
-        for(int i=0; i<n; i++){
-                int sum = 0;
-            for(int j=i; j<n; j++){
-                sum = sum + nums[j];
-                 if(sum == k){
-                cnt++;
-            }
-            }
-           
+       int n = nums.size();
+       map<int,int> mpp;
+       mpp[0] = 1;
+       int prefixSum = 0;
+       int cnt = 0;
+
+       for(int i=0; i<n; i++){
+       prefixSum = prefixSum + nums[i];
+       int remove = prefixSum - k;
+       cnt = cnt + mpp[remove];
+       mpp[prefixSum]++;
         }
-        return cnt;
+    return cnt;
     }
 };
