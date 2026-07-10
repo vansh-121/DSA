@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vansh-121/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vansh-121/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/vansh-121/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/vansh-121/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vansh-121/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/vansh-121/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vansh-121/DSA/tree/main/0169-majority-element/) | Easy |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/vansh-121/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vansh-121/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Simulation
 |  |
