@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/vansh-121/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/vansh-121/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/vansh-121/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/vansh-121/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vansh-121/DSA/tree/main/0054-spiral-matrix/) | Medium |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/vansh-121/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/vansh-121/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/vansh-121/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/vansh-121/DSA/tree/main/0075-sort-colors/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vansh-121/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/vansh-121/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/vansh-121/DSA/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/vansh-121/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/vansh-121/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/vansh-121/DSA/tree/main/0229-majority-element-ii/) | Medium |
